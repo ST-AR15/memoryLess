@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* 游戏主界面 */
+#mainGame {
+    display: block;
+}
+
+/* 欢迎界面 */
+#welcome {
+    display: block;
+}
